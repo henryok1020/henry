@@ -1,4 +1,4 @@
-#Chapter3
+# Chapter3
 
 1.Functions reduce the need for duplicate code. This makes programs shorter, easier to read, and easier to update.
 
